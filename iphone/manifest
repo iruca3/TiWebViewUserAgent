@@ -4,6 +4,7 @@
 #
 version: 0.1
 description: customizing WebView's UserAgent module for iPhone
+architectures: armv7 arm64 i386 x86_64
 author: Tomoya Narita
 license: MIT license
 copyright: Copyright (c) 2012 by Tomoya Narita
@@ -11,8 +12,7 @@ copyright: Copyright (c) 2012 by Tomoya Narita
 
 # these should not be edited
 name: tvharukazetiwebviewuseragentios
-moduleid: tv.harukaze.ti.webview.useragent.ios
-guid: 5551d255-9388-48ef-ba71-88defb53bf43
-architectures: armv7 arm64 i386 x86_64
+moduleid: tv.harukaze.ti.webviewuseragent.ios
+guid: d6dc1d42-bc44-400e-a86c-b953f8bc68a7
 platform: iphone
 minsdk: 1.7.5
